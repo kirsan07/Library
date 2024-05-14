@@ -22,7 +22,7 @@ namespace Library2
 			library.InsertAuthor("Abercrombie", "Joe");
 			library.SelectAuthors();
 			library.SelectBooks("Abercrombie", "Joe");
-			library.InsertBook("The King", "Joe","Abercrombie",  65 , 180 );
+			//library.InsertBook("The King", "Joe","Abercrombie",  65 , 180 );
 		}
 	}
 }
